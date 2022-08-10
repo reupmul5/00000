@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cubase",
+  "private_key_id": "edccf93c2456ee8e17b47b380020394fa2ba8e6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCj4vCAmqvedYTY\n+oVU7pK/tHvAxuuoRHZFTVPa0X2tKSBUIJIFXm7PD3UFLsXo4u7yFgHLBzJixEEC\n/x1e1zO0omT5lioSqGKuaCswBAZWoDbxhsB0Eru3YU56+fL4zJxEXmWLCqvSukyp\nwSWGs2d17/IHzASIUIGlAnYxqK+cnurJFPZLKDfnHaL4Cgo9hL9Wuv0o2uizps1z\nkDzJHNgwlX0F7nB6Yvx6YX88/rcTVmRgbNbXT7nC+mGkaBUids6CvbxqO4XvWFm7\nVg0u4lRFIJG3q0QicaA2lbqhOf9VSok7wigj3s87Q0LZVZu7iiUZ00wvqqt4B5NP\nLJrFyUZHAgMBAAECggEALfDqkWqKXmicLoT/xmDAg3vxKwe4POnAK8ozBQavz9BV\nDzA4LsgbkPDY0XScpx2idPuFUig40CYKwW/JiHIUPQE/BBY7whIw44ow/RtLuZHd\nBRTMs10jAROGgAO8QFF/Rs0dcv4xT3fJENcjkWCOUqnKM7RV2u6SgTKw9le+rs0M\nE4irnvkagKJ0F6zd3uM8VX0IGf6Q7TsS62PXAD7GY75SXnNTQGK3D78aa7efAR4Y\nGiyQ5uGMyM8REzAbirnZPMOUzHgkr7xauOpAtRvv3U3no+nMsoP7egGyHF+Fbrx1\nzXbguyjsaEvvxP1FCP4rPtB18GQT1Grzx5yGswE1uQKBgQDl0B2kn/MIuexZtxcl\njs9a4S8Zxzz49Sw/fW3/LA4pw9cHyf8fRr4eM8Jo171D6bM63pc4UQBRk72zXWM3\n8wYUfNR4zdOqfs5VlOqsTXTGnsjGWfDORL5jXJABRtKwJtc8X8dFH5t1JH1iY34s\no9t+/SJnrCXI9E6vyFlYTEFWvwKBgQC2j6340dFF+ivnescvyyQELoQ8odpthVUz\nX3nV08SPqfEhMMqYvTpfpT4Cc1tfRIQQX1DnoF5dDX8UtRJ3zJ4T0PZOWM168ant\nVdim7o8vVjxp45QIvVPXYwZ0NyzLJbNw1u0cFBOlUaYgNldFFwKxN9xSxgdhKNKd\nxqfOosA6eQKBgAYrCtCjVmOSkexqhJ2GcrxOtPPtLA7GjdR6alxh81NdpUTZQBa3\n0FyBKSOlPrg26o+W79ocGnUWEQ5iYEpdJHmiTBWd+KNn2ePkJlRPk+XM1zizq0nu\nAGosTtUp8He34ykErRWG3qZLP25Hm1hZYYfMBYNg1HbLT91Z9EPxcAODAoGAdCkP\n5VZ79i6saOlyfDKhhBelBH9n4HAKOlnxx+CrHU5go2HMR0uALQOTZTPJW+DYtyIu\n9HLSGBtSVPax/ZAwtSMs1cUjWasTGHSbGfyJFvGkFyw7MSRmiJH1tVS2J7yhZJcc\n39TWe0ZskeqBtPBjQiftBK4EXAoBmWqhs5VTAuECgYAvKsnbQFj3o0wUIEIKUQ+o\nI3W4WkjGr47Tu9/zI3SCVIkIbv00juF5k5zJkSMR3U9NGgLxCWcEzMBU4lYO0Y26\n9K8d2VJvwvwbWjOb+BIGFail8g864bSgTVFkE/AzymCqIzcSys3hVO3InK3mdYEA\noYCBKPLjzYsSHfQ6iq51Lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cubase-048@cubase.iam.gserviceaccount.com",
+  "client_id": "110577912887891294659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cubase-048%40cubase.iam.gserviceaccount.com"
+}
